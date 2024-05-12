@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653599246371",
+    "project_id": "currency-app-f224d",
+    "storage_bucket": "currency-app-f224d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653599246371:android:827486772a794505e60996",
+        "android_client_info": {
+          "package_name": "com.example.penguincurrency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7yy9eUPkdbD-FZRnjOBxIPMeYIorexuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
